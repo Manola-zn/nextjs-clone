@@ -1,0 +1,288 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "homer jay simpson",
+      "slug": "homer-jay-simpson",
+      "skills": [
+        "High intelligence at times",
+        "Superhuman strength",
+        "Superhuman speed",
+        "Superhuman durability",
+        "Superhuman endurance",
+        "Superhuman stamina",
+        "Stomach manipulation",
+        "Radiation immunity",
+        "Hulk transformation",
+        "Near-immortality",
+        "Seemingly unkillable",
+        "Hand-to-hand combat skills",
+        "Roars",
+        "Nigh-alcohol immunity",
+        "Enhanced alcohol empowerment",
+        "Indomitable willpower",
+        "Explossive anger issues",
+        "Throwing pies (as Pieman)",
+        "Master of disguise",
+        "Master of deception",
+        "Regeneration",
+        "Various Transformations",
+        "Ability to touch non-physical things",
+        "Parkour"
+      ],
+      "description": "Introducing Homer Simpson, the lovably absurd and hilariously clueless patriarch of the Griffin family from the animated sitcom Family Guy. Peter is a walking spectacle of comedic chaos, renowned for his unconventional antics and lack of filter. With a physique that defies both physics and fashion trends, he sports a prominent beer belly, a perpetual five o'clock shadow, and a grin that oozes mischief. Peter's trademark outfit consists of a white shirt, green pants, and a sense of humor that teeters on the edge of sanity.",
+      "age": "approximately in his 40s",
+      "avatar": "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694861463/the-simpsons/homer/homer_simpson_lklvsu.png",
+      "images": [
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694798985/the-simpsons/homer/homer-life-simpson_fjtelx.webp",
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694798985/the-simpsons/homer/homer-simpson_c1qi7a.webp"
+      ],
+      "occupations": [
+        "Nuclear Safety Inspector",
+        "Former Technical Supervisor"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "marjorie jacqueline simpson",
+      "slug": "marjorie-jacqueline-simpson",
+      "skills": [
+        "High Intelligence",
+        "Speed",
+        "Manipulation",
+        "Durability",
+        "Endurance",
+        "Cooking",
+        "Cleaning",
+        "Hand-to-Hand CombatCartoon physics"
+      ],
+      "description": "Marjorie Jacqueline Simpson is the happy homemaker and full-time mom of the Simpson family. With her husband Homer, she has three children: Bart, Lisa, and Maggie Simpson. Marge is the moralistic force in her family and often provides a grounding voice in the midst of her family's antics by trying to maintain order in the Simpson household. Aside from her duties at home, Marge flirted briefly with a number of careers ranging from police officer to anti-violence activist.",
+      "age": "Late 30s",
+      "avatar": "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694818834/the-simpsons/marge/marge_simpson-fotor-bg-remover-202309160436_fulson.png",
+      "images": [
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694799241/the-simpsons/marge/marge-simpson_oqdrvt.webp",
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694799265/the-simpsons/marge/marge-life-simpson_rkh6mi.avif"
+      ],
+      "occupations": ["Housewife"]
+    },
+    {
+      "id": 3,
+      "name": "bartholomew jojo simpson",
+      "slug": "bartholomew-jojo-simpson",
+      "description": "Bartholomew Jojo 'Bart' Simpson is the mischievous, rebellious, misunderstood, and potentially dangerous eldest child of Homer and Marge Simpson, and the brother of Lisa and Maggie Simpson.",
+      "age": "10 years",
+      "avatar": "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694813941/the-simpsons/bart/bart_simpson_qlwaon.png",
+      "images": [
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694797678/the-simpsons/bart/bart-simpson_sjetkh.jpg",
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694797653/the-simpsons/bart/bart-life-simpson_yhle70.png"
+      ],
+      "occupations": [ "Student at Springfield Elementary School" ]
+    },
+    {
+      "id": 4,
+      "name": "lisa simpson",
+      "slug": "lisa-simpson",
+      "description": "Lisa Simpson is a charismatic 8-year-old girl, who exceeds the standard achievement level of children her age. Not to everyone's surprise, she's also the moral center of her family.",
+      "age": "8 years",
+      "avatar": "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694819677/the-simpsons/lisa/lisa_simpson_zmwgh7.png",
+      "images": [
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694799700/the-simpsons/lisa/lisa-life-simpson_df2lew.jpg",
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694799700/the-simpsons/lisa/lisa-simpson_s8couo.webp"
+      ],
+      "occupations": [
+        "Student at Springfield Elementary School",
+        "CTU Agent, Babysitter", 
+        "Hall monitor"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "margaret lenny simpson",
+      "slug": "margaret-lenny-simpson",
+      "description": "Margaret Lenny 'Maggie' Simpson is the 1-year-old daughter and youngest child of Marge and Homer Simpson, the baby sister to Bart and Lisa Simpson and one of the five main characters of The Simpsons. She is often seen sucking on her pacifier, and when she walks, she trips over her clothing and falls on her face. Because she rarely ever talks,Maggie is the least seen and heard in the Simpson family.",
+      "age": "1 years",
+      "avatar": "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694819726/the-simpsons/maggie/maggie_simpson_aptdti.png",
+      "images": [
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694798868/the-simpsons/maggie/maggie-simpson_npxfnj.jpg",
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694798871/the-simpsons/maggie/maggie-life-simpson_rg7ruf.jpg"
+    ],
+      "occupations": ["Youngest member of the Simpsons family"]
+    },
+    {
+      "id": 6,
+      "name": "abraham simpson",
+      "slug": "abraham-simpson",
+      "description": "Introducing Abraham Simpson,usually referred to as Grampa Simpson or simply Grampa, is the patriarch of the Simpson family, the father of Homer Simpson, Herbert Powell, and Abbey and the grandfather of Bart, Lisa, and Maggie Simpson. Abe is a World War II veteran later sent to the Springfield Retirement Castle by Homer. He is known for his long, rambling, and often inaccurate stories and general incompetence.",
+      "age": "Late 80s",
+      "avatar": "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694814061/the-simpsons/grampa/grampa_simpson_p2gwcb.png",
+      "images": [
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694798840/the-simpsons/grampa/grampa-life-simpson_hbmxdt.jpg",
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694798858/the-simpsons/grampa/grampa-simpson_gugbiw.jpg"
+      ],
+      "occupations": [
+        "Retired",
+        "President of the Springfield Gay & Lesbian Alliance",
+        "Springfield Communist Party member",
+        "World War II veteran",
+        "Flying Hellfish member",
+        "Owner of Simpson Laser Tag (formerly)",
+        "Night watchman at cranberry silo"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "mona simpson",
+      "slug": "mona-simpson",
+      "description": "Mona Simpson, also known as Martha Stewart, Muddy Mae Suggins, Anita Bonghit, Mona Stevens and Penelope Olsen, was the mother of Homer Simpson, ex-wife of Abraham Simpson, mother-in-law of Marge Simpson and grandmother of Bart, Lisa and Maggie.",
+      "age": "Late 30s",
+      "avatar": "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694819892/the-simpsons/mona/mona_simpson_rnabuk.png",
+      "images": [
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694874696/the-simpsons/mona/mona-life-simpson_qenx8y.jpg",
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694800061/the-simpsons/mona/mona-simpson_rtz8ji.webp"
+      ],
+      "occupations": [ 
+        "Waitress (Formerly)",
+        "Housewife (Formerly)",
+        "Political activist (Formerly)",
+        "Convict (Formerly)"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "clancy bouvier",
+      "slug": "clancy-bouvier",
+      "description": "Clancy Bouvier, occasionally referred to as Grandpa Bouvier or Mr. Bouvier, was the husband of Jacqueline Bouvier, the father of Selma Bouvier, Patty Bouvier, Marge Simpson, and possibly Uncle Arthur and Hortense. He was the brother-in-law of the late Gladys, the son-in-law of Ferdinand Gurney and Alvarine Gurney, the father-in-law (possibly only posthumously) of Homer Simpson and the maternal grandfather of Maggie, Lisa and Bart Simpson and Ling Bouvier. He was of French ancestry",
+      "age": "",
+      "avatar": "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694819567/the-simpsons/clancy/clancy_bouvier_sbr7kk.png",
+      "images": [
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694800887/the-simpsons/clancy/clancy-life-bouvier_biaaw6.jpg",
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694876372/the-simpsons/clancy/clancy-simspon_k8pbhj.webp"
+      ],
+      "occupations": [
+        "Navy sailor (formerly)",
+        "Baby photographer (formerly)",
+        "Flight attendant (formerly)"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "jacqueline bouvier",
+      "slug": "jacqueline-bouvier",
+      "description": "Jacqueline Bouvier, occasionally referred to as Grandma Bouvier or Mrs. Bouvier, is the mother of Marge Simpson, Patty and Selma Bouvier, the widow of the late Clancy Bouvier, the mother-in-law of Homer Simpson and the grandmother of Bart, Lisa and Maggie Simpson. She also had a sister named Gladys, now deceased.",
+      "age": "Late 80s",
+      "avatar": "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694818753/the-simpsons/jacqueline/jacqueline_bouvie_phi5rv.png",
+      "images": [
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694800584/the-simpsons/jacqueline/jacqueline-life-bouvier_vclysw.jpg",
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694819217/the-simpsons/jacqueline/jacqueline-bouvier_xzs3me.webp"
+      ],
+      "occupations": ["Retired"]
+    },
+    {
+      "id": 10,
+      "name": "herbert powell",
+      "slug": "herbert-powell",
+      "description": "Herbert 'Herb' Powell is a character in the long-running animated television series The Simpsons. He is Homer Simpson's paternal half-brother who was the owner of a car company named Powell Motors based in Detroit, Michigan, until Homer bankrupted Herb's company into the ground by designing a fashionably-ugly car called 'the Homer' that was very overpriced. Herb is also the paternal half-uncle of Bart, Lisa, and Maggie Simpson.",
+      "age": "Late 30s",
+      "avatar": "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694814078/the-simpsons/herbert/herbert_powell_xa6vqk.png",
+      "images": [
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694874456/the-simpsons/herbert/herbert-powell-life_xkbloi.webp",
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694816699/the-simpsons/herbert/herbert-powell_f1drvg.jpg"
+    ],
+      "occupations": ["Inventor Businessman CEO of Powell Motors"]
+    },
+    {
+      "id": 11,
+      "name": "nelson muntz",
+      "slug": "nelson-muntz",
+      "description": "Nelson Muntz is the lead bully at Springfield Elementary School and serves as both Bart Simpson's friend and archenemy and one of the few bullies Bart actually fears, although the relationship between them usually varies.",
+      "age": "10 years",
+      "avatar": "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694861364/the-simpsons/nelson/nelson_muntz_zxueh8.png",
+      "images": [
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694815730/the-simpsons/nelson/nelson-muntz-life_xpbvzt.webp",
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694874619/the-simpsons/nelson/nelson-muntz_ygv0al.webp"
+      ],
+      "occupations": [
+        "School bully",
+        "Former paperboy Former",
+        "Former singer",
+        "Former news reporter"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "milhouse van houten",
+      "slug": "milhouse-van-houten",
+      "description": "Milhouse Van Houten is  is a recurring character in The Simpsons and a minor character in The Simpsons Movie.He is the best friend of Bart Simpson. He hangs around with Bart all the time, and get into mischief. He has a crush on Lisa throughout the series.",
+      "age": "10 years",
+      "avatar": "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694818892/the-simpsons/milhouse/milhouse_van_houten-fotor-bg-remover-2023091605028_osrt6o.png",
+      "images": [
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694815801/the-simpsons/milhouse/milhouse-van-houten-life_kgeqmy.jpg",
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694815803/the-simpsons/milhouse/milhouse-van-houten_se26bx.png"
+      ],
+      "occupations": [
+        "Student at Springfield Elementary",
+        "Singer at Party Posse",
+        "Reader at Kidz Newz",
+        "Radioactive Man's assistant",
+        "Security Guard at Bart's Factory"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "joe quimby",
+      "slug": "joe-quimby",
+      "description": "Joe Quimby is the Mayor of Springfield. He appears as a slick, opportunistic politician whose chief priorities seem to be keeping himself in office, womanizing, and various other forms of corruption, including embezzling tax money, taking bribes from Fat Tony, the local Mafia Don, and giving monthly kickbacks to Police Chief Wiggum. The seal on the wall of his office reads 'Corruptus in Extremis', which means 'extremely corrupt'.",
+      "avatar": "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694819792/the-simpsons/mayor/mayor_quimby_zzkxgh.png",
+      "images": [
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694874556/the-simpsons/mayor/mayor-life_lsf7d3.jpg",
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694815908/the-simpsons/mayor/mayor_ygkd29.jpg"
+      ],
+      "occupations": ["Mayor of Springfield"]
+    },
+    {
+      "id": 14,
+      "name": "chief wiggum",
+      "slug": "chief-wiggum",
+      "description": "Chief Wiggum  is the head of the Springfield Police Department. He is an extreme stereotype of a lazy police officer. Chief Wiggum is obese, ignorant and lazy, with a fondness for donuts and guns. While he pretentiously feigns authority, he has little regard for individual rights or even public safety. He is uninformed and continuously flaunts his power, albeit with good intentions most of the time.",
+      "age": "Late 40s",
+      "avatar": "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694818369/the-simpsons/chief/chief-clancy_rdibkb.png",
+      "images": [
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694816742/the-simpsons/chief/chief-clancy-wiggum-life_pnh4dn.jpg",
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694862672/the-simpsons/chief/chief-clancy-wiggum-_afz7j3.jpg"
+    ],
+      "occupations": ["Chief of the Springfield Police Department"]
+    },
+    {
+      "id": 15,
+      "name": "dr hibbert",
+      "slug": "dr-hibbert",
+      "description": "Dr. Hibbert is one of the supporting characters of The Simpsons. He is Springfield's most prominent and competent doctor, though he sometimes makes no effort to hide or make light of his high prices. Hibbert is very good-natured, and is known for finding a reason to laugh at nearly every situation. Hibbert is a good doctor, much better than Dr. Nick Riviera.",
+      "age": "",
+      "avatar": "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694814532/the-simpsons/dr_hibbert/dr._hibbert-fotor_u3wcll.png",
+      "images": [
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694816606/the-simpsons/dr_hibbert/dr._hibbert-life_ii7h2o.jpg",
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694816612/the-simpsons/dr_hibbert/dr.hibbert_kbr0qz.jpg"
+      ],
+      "occupations": [
+        "Doctor at Springfield General Hospital",
+        "Owner at M.D. Family Practice"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "santas little helper",
+      "slug": "santas-little-helper",
+      "description": "Tom Tucker is a fictional character on The Simpsons. He is the Simpson family's pet Greyhound.",
+      "age": "",
+      "avatar": "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694820056/the-simpsons/santaslittlehelper/santas_little_helper_ayvxzo.png",
+      "images": [
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694816517/the-simpsons/santaslittlehelper/santas-little-helper-life_danxb7.jpg",
+        "https://res.cloudinary.com/dewnzhc3n/image/upload/v1694816521/the-simpsons/santaslittlehelper/santas-little-helper_sjjv6c.jpg"
+      ],
+      "occupations": [
+        "Family Pet",
+        "K9 Unit (formerly)"
+      ]
+    }
+  ]
+}
