@@ -33,6 +33,7 @@ npm run dev
 You are now ready to go!
 
 
+![Capture](https://github.com/Manola-zn/nextjs-clone/assets/55177325/9823c0c9-a488-48ca-b583-351fe095f47b)
 
 
 
